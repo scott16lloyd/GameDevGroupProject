@@ -1,0 +1,60 @@
+# Unreal Engine files
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+/Build/
+/Binaries/
+/.vscode/
+/.vs/
+/.idea/
+/Plugins/*/Intermediate/
+/Plugins/*/Binaries/
+
+# Sensitive configuration files
+*AndroidFileServerRuntimeSettings*
+
+# Visual Studio files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.aps
+*.user
+*.vcxproj.filters
+
+# macOS files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Compiled binaries
+*.exe
+*.lib
+*.pdb
+*.dll
+*.a
+*.dylib
+*.so
+
+# Compiled shader files
+*.usf.ushaderbytecode
+*.usf.version
+
+# UE4/UE5 generated files
+StarterContent
+FeaturePacks/
+Engine/
+
+# Packaged game files
+/Packaged/
+
+# Crashlytics configs
+com_crashlytics_export_strings.xml
+
+# Local build directory
+/Builds/
+
+# Generated project files
+*.generated.h
