@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/Dungeon_Room1.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Blueprints/BP_DungeonGenerator.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/MPTopdownKit/Maps/MPTopDownExampleMap.umap",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/Dungeon_HubRoom.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/Master_Room.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/Dungeon_Room1CHILD.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/Dungeon_HubRoomCHILD.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Blueprints/SpawnCollisionBox.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Blueprints/BP_SpawnCollisionRoom.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/SpawnRoom_CollisionBox.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/MPTopdownKit/Blueprints/Usables/Door_Spawn_CHILD.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/EndWall.uasset",
+				"E:/UnrealEngineProjects/GameDevGroupProject/Content/ProjectWork/Structures/DungeonRoom_Hub.uasset",
 				"C:/Users/R00215945/Documents/Unreal Projects/MultiplayerTopDownKit/Content/MPTopdownKit/Maps/MPTopDownExampleMap_BuiltData.uasset",
 				"C:/Users/R00215945/Documents/Unreal Projects/MultiplayerTopDownKit/Content/MPTopdownKit/Maps/MPTopDownExampleMap.umap"
 			]
