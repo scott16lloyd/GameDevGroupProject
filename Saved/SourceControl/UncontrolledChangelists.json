@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/scott/OneDrive/Desktop/Programming/GameDev/GameDevGroupProject/Content/MPTopdownKit/Maps/MPTopDownExampleMap.umap",
+				"C:/Users/scott/OneDrive/Desktop/Programming/GameDev/GameDevGroupProject/Content/MPTopdownKit/Blueprints/BP_Pickup_Health.uasset",
+				"C:/Users/scott/OneDrive/Desktop/Programming/GameDev/GameDevGroupProject/Content/MPTopdownKit/Maps/MPTopDownExampleMap_BuiltData.uasset",
 				"C:/Users/R00215945/Documents/Unreal Projects/MultiplayerTopDownKit/Content/MPTopdownKit/Maps/MPTopDownExampleMap_BuiltData.uasset",
 				"C:/Users/R00215945/Documents/Unreal Projects/MultiplayerTopDownKit/Content/MPTopdownKit/Maps/MPTopDownExampleMap.umap"
 			]
